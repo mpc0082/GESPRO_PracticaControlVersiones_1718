@@ -1,0 +1,5 @@
+Con este documento probaremos a hacer un conflicto de merge. 
+ 
+La linea 3 tiene texto y este texto es diferente al de la rama develop 1
+La linea 4 también tiene texto
+La linea 5 tiene texto y este texto es diferente al de la rama develop 1
