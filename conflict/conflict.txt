@@ -1,0 +1,6 @@
+Con este documento probaremos a hacer un conflicto de merge.
+
+La linea 3 tiene texto
+
+La linea 5 tiene texto
+
